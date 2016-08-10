@@ -1,4 +1,4 @@
-# FreshSync
+# FReshSync
 A miniature RSync wrapper written in C
 
 Your server should be set up to not require a password from the machine that is running this application.
